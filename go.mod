@@ -1,4 +1,4 @@
-module github.com/google/go-attestation
+module github.com/Fraunhofer-AISEC/go-attestation
 
 go 1.20
 

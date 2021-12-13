@@ -1,10 +1,11 @@
-module github.com/google/go-attestation
+module github.com/Fraunhofer-AISEC/go-attestation
 
 go 1.22
 
 toolchain go1.22.3
 
 require (
+	github.com/google/go-attestation v0.5.2-0.20241212142452-9cc576ead1a9
 	github.com/google/go-cmp v0.6.0
 	github.com/google/go-tpm v0.9.1
 	github.com/google/go-tpm-tools v0.4.4
@@ -14,6 +15,5 @@ require (
 
 require (
 	github.com/google/certificate-transparency-go v1.1.2 // indirect
-	github.com/google/go-configfs-tsm v0.2.2 // indirect
 	golang.org/x/crypto v0.31.0 // indirect
 )

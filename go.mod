@@ -3,7 +3,7 @@ module github.com/Fraunhofer-AISEC/go-attestation
 go 1.20
 
 require (
-	github.com/google/go-attestation v0.4.4-0.20220404204839-8820d49b18d9
+	github.com/google/go-attestation v0.4.4-0.20230613144338-a9b6eb1eb888
 	github.com/google/go-cmp v0.5.9
 	github.com/google/go-tpm v0.9.0
 	github.com/google/go-tpm-tools v0.3.13-0.20230620182252-4639ecce2aba
